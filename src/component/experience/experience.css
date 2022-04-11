@@ -1,0 +1,23 @@
+.experinece_box ul li{
+ width: 260px;
+ height:550px;
+ float: left;
+ margin:40px 40px;
+ text-align: center;
+ background:var(--color-primary);
+ border-radius: 2rem;
+ color: black;
+ color: white;
+}
+.experinece_box ul li button{
+ width: 100px;
+ height: 40px;
+ border-radius: 10px;
+}.experinece_box ul li button a:hover{
+ color: black;
+}
+.experinece_box ul li img{
+ width: 260px;
+ height: 200px;
+ object-fit: fill;
+}

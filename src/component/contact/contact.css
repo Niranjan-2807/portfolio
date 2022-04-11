@@ -1,0 +1,24 @@
+.message_mail{
+ margin:auto;
+ width: 90%;
+ height:70%;
+}
+.message_mail form div{
+ display: flex;
+ justify-content: center;
+ align-items:center;
+ padding:10px;
+}
+.message__icons{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+.message__icons a{
+ font-size: 60px;
+ margin: -40px 180px;
+ border-radius: 3rem;
+}.message__icons a:hover{
+ transform: rotate(50deg);
+ transition: 0.5s linear;
+}
